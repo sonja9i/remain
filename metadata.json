@@ -1,0 +1,5 @@
+{
+  "name": "한의원 한약 재고관리 시스템",
+  "description": "비급여 한약 및 약재의 입출고 내역과 실시간 재고를 관리하는 시스템입니다.",
+  "requestFramePermissions": []
+}
